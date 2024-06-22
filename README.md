@@ -1,4 +1,4 @@
-* Welcome to My GitHub Profile!
+#Noah Birmanns
 
 **`Hi there! 👋 I'm Noah, a starting computer science student excited to dive into the world of programming and technology. While I'm just starting my journey, I'm eager to learn, grow, and share my progress with you.`**
 
